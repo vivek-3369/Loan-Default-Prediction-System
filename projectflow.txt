@@ -1,0 +1,8 @@
+1. Create project template by executing template.py file.
+2. Write the code in setup.py to import local packages. 
+3. Create a virtual environment, activate and install the requirements from requirement.txt 
+    conda create -p bank python=3.10 -y 
+    conda activate bank/
+    add requirement.txt
+    do "pip install -r requirements.txt"
+4. Do a "pip list" to ensure local packages installed.
